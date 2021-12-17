@@ -1,0 +1,15 @@
+.main-title {
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: purple;
+    background-color: rgb(179, 236, 115);
+}
+
+.list-items {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: left;
+    color: rgb(179, 236, 115);
+    
+}
