@@ -1,5 +1,23 @@
-.main-title {
-    text-align: center;
+.titles, .subheadings {
+    font-family: 'Courier New', Courier, monospace;
     color: purple;
-    background-color: black;
+    background-color: rgb(179, 236, 115);
+}
+.titles {
+    font-size: 60px;
+    text-align: center;
+}
+.image {
+    text-align: center;
+}
+
+.subheadings {
+    text-align: left;
+    font-size: 30px;
+
+}
+
+.miniheadings {
+    color: purple;
+    background: rgb(211, 245, 173);
 }
